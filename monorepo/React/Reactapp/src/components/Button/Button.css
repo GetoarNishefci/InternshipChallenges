@@ -1,0 +1,20 @@
+/* GoBackButton.css */
+
+.GoBackButton {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .GoBackButton:hover {
+    background-color: #2980b9;
+  }
+  
+  .GoBackButton:focus {
+    outline: none;
+  }
+  
